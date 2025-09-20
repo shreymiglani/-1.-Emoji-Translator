@@ -22,9 +22,11 @@ Open terminal and run:
 python emoji_translator.py
 
 
+
 Enter a sentence like:
 
 I love pizza and I am happy
+
 
 
 Output will be:
