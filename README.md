@@ -80,7 +80,6 @@ This project is open-source and free to use.
 
 ---
 
-Do you also want me to **add a screenshot/demo section** (with placeholder image links) so your README looks more professional on GitHub?
-```
+
 
 
